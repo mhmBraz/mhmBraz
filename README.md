@@ -8,6 +8,8 @@
 <img height="40px" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 <img height="40px" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
 
+
+ #### 📫 linkedin
 <a href="https://www.linkedin.com/in/matheushenriquebraz/">
  <img height="40px" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
 </a>
