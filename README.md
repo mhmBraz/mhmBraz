@@ -2,9 +2,9 @@
  #### Hello, Devs!!
  ##### Bem vindo ao meu perfil GitHub 😄
  
-####### Ferramentas e Tecnologias
-<img height="94px" width="94px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
-<img height="94px" width="94px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" />
+### Ferramentas e Tecnologias
+<img height="40px" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
+<img height="40px" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" />
         
           
 
