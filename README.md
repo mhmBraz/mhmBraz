@@ -1,7 +1,22 @@
  #### 👋 Hi! I'm Matheus Braz
- ##### Hello, Devs!!
  ##### Bem vindo ao meu perfil GitHub 😄
  
+  #### 📫 linkedin
+  
+  <div align="center">
+  <div style="display:flex; align-items:center; justify-content:center; gap:5px">
+    <a href="https://www.linkedin.com/in/matheushenriquebraz/">
+      <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"
+        alt="linkedin"/>
+    </a>  
+  </div>
+</div>
+
+<a href="https://www.linkedin.com/in/matheushenriquebraz/">
+ <img height="40px" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
+</a>
+
+
 ##### Ferramentas e Tecnologias
 <div>
 <img height="40px" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
@@ -11,10 +26,7 @@
 </div>
 
 
- #### 📫 linkedin
-<a href="https://www.linkedin.com/in/matheushenriquebraz/">
- <img height="40px" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
-</a>
+
         
           
 
